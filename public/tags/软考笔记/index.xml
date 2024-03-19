@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>软考笔记 on Huabing Blog</title>
+    <link>https://lxgme.com/tags/%E8%BD%AF%E8%80%83%E7%AC%94%E8%AE%B0/</link>
+    <description>Recent content in 软考笔记 on Huabing Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lxgme.com/tags/%E8%BD%AF%E8%80%83%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>软考笔记-CPU</title>
+      <link>https://lxgme.com/post/ruan-kao-cpu/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lxgme.com/post/ruan-kao-cpu/</guid>
+      <description>流水线CPU 流水线计算公式 超标了流水线</description>
+    </item>
+    
+    <item>
+      <title>软考笔记-信息安全</title>
+      <link>https://lxgme.com/post/ruan-kao-xin-xi-an-quan/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lxgme.com/post/ruan-kao-xin-xi-an-quan/</guid>
+      <description>信息安全 对称加密 特点: 加密强度不高、效率高 密码分发困难，分发的过程中存在泄露风险 常见对称加密的算法： DES,3DESC,RC-5,IDEA算</description>
+    </item>
+    
+    <item>
+      <title>软考笔记-数的表示</title>
+      <link>https://lxgme.com/post/ruan-kao-shu-de-biao-shi/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lxgme.com/post/ruan-kao-shu-de-biao-shi/</guid>
+      <description>数字的表示 进制的转换 原码、反码、补码、移码 第一位表示 0 表示正数，1表示负数 正数的反码、补码 是自己 负数的反码、补码 负数的反码是 除符号位取反过来</description>
+    </item>
+    
+    <item>
+      <title>软考笔记-系统开发基础</title>
+      <link>https://lxgme.com/post/ruan-kao-xi-tong-kai-fa-ji-chu/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lxgme.com/post/ruan-kao-xi-tong-kai-fa-ji-chu/</guid>
+      <description>系统开发基础</description>
+    </item>
+    
+    <item>
+      <title>软考笔记-网络安全</title>
+      <link>https://lxgme.com/post/ruan-kao-wang-luo-an-quan/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lxgme.com/post/ruan-kao-wang-luo-an-quan/</guid>
+      <description>网络安全 被动攻击 主要使用监听的方式， 消息内容被获取 业务流程分析 主动攻击 中断 篡改 伪造</description>
+    </item>
+    
+    <item>
+      <title>软考笔记-设备管理</title>
+      <link>https://lxgme.com/post/ruan-kao-she-bei-guan-li/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lxgme.com/post/ruan-kao-she-bei-guan-li/</guid>
+      <description>设备管理 数据传输控制方式 轮询方式 中断方式 DMA 通道方式 io处理机</description>
+    </item>
+    
+    <item>
+      <title>软考笔记-ER图</title>
+      <link>https://lxgme.com/post/ruan-kao-er/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lxgme.com/post/ruan-kao-er/</guid>
+      <description>ER模型 反应了实体与实体的关系 图形 含义 矩形 实体 椭圆 属性 菱形 关系 矩形+竖线 弱实体，某种实体的特殊化</description>
+    </item>
+    
+    <item>
+      <title>软考笔记-存储</title>
+      <link>https://lxgme.com/post/ruan-kao-cun-chu/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lxgme.com/post/ruan-kao-cun-chu/</guid>
+      <description>存储 全相连 组相连</description>
+    </item>
+    
+    <item>
+      <title>软考笔记-校验码</title>
+      <link>https://lxgme.com/post/ruan-kao-jiao-yan-ma/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lxgme.com/post/ruan-kao-jiao-yan-ma/</guid>
+      <description>校验码 校验码分为校验和纠错 奇偶校验 奇偶校验只能检错且只能检错一位出错。 奇校验，整个校验码（有效数据+检验位）中的1的个数为奇数 偶校验，整个校</description>
+    </item>
+    
+    <item>
+      <title>软考笔记-网络</title>
+      <link>https://lxgme.com/post/ruan-kao-wang-luo/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lxgme.com/post/ruan-kao-wang-luo/</guid>
+      <description>网络 IP划分 IP地址的构成，如下： 可以划分为如下的IPv4 空间 目前大仍采用的IP地址是IPv4版本，由4个字节组成，每个字节8位二进制数，也</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://lxgme.com/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>软考笔记</title>
+      <title>软考笔记-数的表述</title>
       <link>https://lxgme.com/post/ruankao/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://lxgme.com/post/ruankao/</guid>
-      <description>数字的表示 进制的转换 原码、反码、补码、移码 第一位表示 0 表示正数，1表示负数 正数的反码、补码 是自己 负数的反码、补码 负数的反码是 除符号位取反过来</description>
+      <description>信息安全 对称加密 特点: 加密强度不高、效率高 密码分发困难，分发的过程中存在泄露风险 常见对称加密的算法： DES,3DESC,RC-5,IDEA算</description>
     </item>
     
   </channel>

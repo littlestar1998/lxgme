@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>信息安全 on Huabing Blog</title>
+    <link>https://lxgme.com/tags/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/</link>
+    <description>Recent content in 信息安全 on Huabing Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lxgme.com/tags/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>软考笔记-信息安全</title>
+      <link>https://lxgme.com/post/ruan-kao-xin-xi-an-quan/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lxgme.com/post/ruan-kao-xin-xi-an-quan/</guid>
+      <description>信息安全 对称加密 特点: 加密强度不高、效率高 密码分发困难，分发的过程中存在泄露风险 常见对称加密的算法： DES,3DESC,RC-5,IDEA算</description>
+    </item>
+    
+  </channel>
+</rss>

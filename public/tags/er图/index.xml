@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ER图 on Huabing Blog</title>
+    <link>https://lxgme.com/tags/er%E5%9B%BE/</link>
+    <description>Recent content in ER图 on Huabing Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://lxgme.com/tags/er%E5%9B%BE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>软考笔记-ER图</title>
+      <link>https://lxgme.com/post/ruan-kao-er/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lxgme.com/post/ruan-kao-er/</guid>
+      <description>ER模型 反应了实体与实体的关系 图形 含义 矩形 实体 椭圆 属性 菱形 关系 矩形+竖线 弱实体，某种实体的特殊化</description>
+    </item>
+    
+  </channel>
+</rss>

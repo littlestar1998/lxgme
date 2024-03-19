@@ -1,13 +1,16 @@
 ---
-title:       "软考笔记"
+title:       "软考笔记-数的表示"
 subtitle:    ""
 description: ""
-date:        2018-06-04
+date:        2024-03-17
 author:      ""
 image:       ""
-tags:        ["tag1", "tag2"]
+tags:        ["软考笔记", "数的表示"]
 categories:  ["Tech" ]
+draft: true
+
 ---
+
 
 
 # 数字的表示
@@ -30,10 +33,3 @@ categories:  ["Tech" ]
 
 
 补码用于处理计算机的加减法
-
-
-# 流水线CPU
-## 流水线计算公式
-
-
-## 超标了流水线

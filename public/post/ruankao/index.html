@@ -15,9 +15,9 @@
     
 
     
-    <meta name="title" content="软考笔记" />
-    <meta property="og:title" content="软考笔记" />
-    <meta property="twitter:title" content="软考笔记" />
+    <meta name="title" content="软考笔记-数的表述" />
+    <meta property="og:title" content="软考笔记-数的表述" />
+    <meta property="twitter:title" content="软考笔记-数的表述" />
     
 
     
@@ -34,7 +34,7 @@
     <meta name="keyword"  content="赵化冰, zhaohuabing, Zhaohuabing, , 赵化冰的网络日志, 赵化冰的博客, Zhaohuabing Blog, 博客, 个人网站, 互联网, Web, 云原生, PaaS, Istio, Kubernetes, 微服务, Microservice">
     <link rel="shortcut icon" href="/img/favicon.ico">
 
-    <title>软考笔记 | 赵化冰的博客 | Zhaohuabing Blog</title>
+    <title>软考笔记-数的表述 | 赵化冰的博客 | Zhaohuabing Blog</title>
 
     <link rel="canonical" href="/post/ruankao/">
 
@@ -172,8 +172,8 @@
                 <div class="post-heading">
                     <div class="tags">
                         
-                        <a class="tag" href="/tags/tag1" title="tag1">
-                            tag1
+                        <a class="tag" href="/tags/%E8%BD%AF%E8%80%83" title="软考">
+                            软考
                         </a>
                         
                         <a class="tag" href="/tags/tag2" title="tag2">
@@ -181,7 +181,7 @@
                         </a>
                         
                     </div>
-                    <h1>软考笔记</h1>
+                    <h1>软考笔记-数的表述</h1>
                     <h2 class="subheading"></h2>
                     <span class="meta">
                         
@@ -216,16 +216,38 @@
                 post-container">
 
                 
-                <h1 id="数字的表示">数字的表示</h1>
-<h2 id="进制的转换">进制的转换</h2>
-<h2 id="原码反码补码移码">原码、反码、补码、移码</h2>
-<p>第一位表示 0 表示正数，1表示负数</p>
-<p>正数的反码、补码 是自己
-负数的反码、补码</p>
-<p>负数的反码是 除符号位取反过来
-补码是在 反码的基础上+1</p>
-<p>移码是在补码的基础上 符号位取反</p>
-<p>补码用于处理计算机的加减法</p>
+                <h1 id="信息安全">信息安全</h1>
+<h2 id="对称加密">对称加密</h2>
+<p>特点:</p>
+<ol>
+<li>加密强度不高、效率高</li>
+<li>密码分发困难，分发的过程中存在泄露风险</li>
+</ol>
+<p>常见对称加密的算法：
+DES,3DESC,RC-5,IDEA算法</p>
+<h2 id="非对称加密">非对称加密</h2>
+<p>由于对称加密存在缺陷。因此出现了非对称加密
+加密和解密的不是同一套秘钥特点:</p>
+<ol>
+<li>加密强度高、效率低</li>
+</ol>
+<p>公钥和私钥都是成对出现的</p>
+<p>用公钥加密的用私钥解密
+用私钥加密的用公钥解密</p>
+<p>常见的加密算法：
+RSA、ECC</p>
+<h2 id="数字签名">数字签名</h2>
+<p>加入A向B发送消息</p>
+<ol>
+<li>首先A用自己的私钥加密信息</li>
+<li>信息经过互联网的传播</li>
+<li>B收到信息后用A的公钥进行解密</li>
+</ol>
+<h2 id="消息摘要">消息摘要</h2>
+<p>使用单项散列函数，加密成固定长度的散列值。</p>
+<p>常见的消息摘要算法：
+MD5、SHA等</p>
+<h2 id="pki公钥体系">PKI公钥体系</h2>
 
 
                 

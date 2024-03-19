@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>校验码 on Huabing Blog</title>
+    <link>https://lxgme.com/tags/%E6%A0%A1%E9%AA%8C%E7%A0%81/</link>
+    <description>Recent content in 校验码 on Huabing Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://lxgme.com/tags/%E6%A0%A1%E9%AA%8C%E7%A0%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>软考笔记-校验码</title>
+      <link>https://lxgme.com/post/ruan-kao-jiao-yan-ma/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lxgme.com/post/ruan-kao-jiao-yan-ma/</guid>
+      <description>校验码 校验码分为校验和纠错 奇偶校验 奇偶校验只能检错且只能检错一位出错。 奇校验，整个校验码（有效数据+检验位）中的1的个数为奇数 偶校验，整个校</description>
+    </item>
+    
+  </channel>
+</rss>

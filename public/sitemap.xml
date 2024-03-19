@@ -2,38 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lxgme.com/economic/</loc>
-    <lastmod>2024-03-14T00:12:58+08:00</lastmod>
+    <loc>https://lxgme.com/post/readme/</loc>
+    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lxgme.com/</loc>
-    <lastmod>2024-03-14T00:12:58+08:00</lastmod>
-  </url><url>
-    <loc>https://lxgme.com/economic/%E9%BB%84%E9%87%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E8%83%BD%E7%BB%A7%E7%BB%AD%E5%88%9B%E6%96%B0%E9%AB%98/</loc>
-    <lastmod>2024-03-14T00:12:58+08:00</lastmod>
-  </url><url>
-    <loc>https://lxgme.com/post/readme/</loc>
     <lastmod>2019-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lxgme.com/post/</loc>
     <lastmod>2019-01-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lxgme.com/categories/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lxgme.com/tags/tag1/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lxgme.com/tags/tag2/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lxgme.com/tags/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lxgme.com/categories/tech/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lxgme.com/post/ruankao/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lxgme.com/about/</loc>
   </url><url>
@@ -41,8 +17,12 @@
   </url><url>
     <loc>https://lxgme.com/search/placeholder/</loc>
   </url><url>
+    <loc>https://lxgme.com/categories/</loc>
+  </url><url>
     <loc>https://lxgme.com/archive/</loc>
   </url><url>
     <loc>https://lxgme.com/search/</loc>
+  </url><url>
+    <loc>https://lxgme.com/tags/</loc>
   </url>
 </urlset>
