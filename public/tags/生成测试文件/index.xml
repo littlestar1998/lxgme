@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech on Huabing Blog</title>
-    <link>https://lxgme.com/categories/tech/</link>
-    <description>Recent content in Tech on Huabing Blog</description>
+    <title>生成测试文件 on Huabing Blog</title>
+    <link>https://lxgme.com/tags/%E7%94%9F%E6%88%90%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/</link>
+    <description>Recent content in 生成测试文件 on Huabing Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lxgme.com/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lxgme.com/tags/%E7%94%9F%E6%88%90%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>生成测试文件</title>
       <link>https://lxgme.com/post/generate-test-file/</link>

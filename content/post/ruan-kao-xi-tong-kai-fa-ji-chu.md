@@ -194,3 +194,116 @@ SOA
 
 考点1：记住他们之间的顺序。重点
 考点2：给出一个描述，填充内聚类型
+
+# 软件测试
+
+
+动态测试系统在计算机上运行起来
+
+|  动态测试  |
+|  ----  | 
+| 黑盒测试法    | 
+| 白盒测试法    | 
+| 灰盒测试法    | 
+
+
+
+|  静态测试  |
+|  ----  | 
+|桌前检查    | 
+| 代码审查    | 
+| 代码走查    | 
+
+![](https://lxgme.oss-cn-shanghai.aliyuncs.com/images/20240324112529.png)<!--  -->
+
+![](https://lxgme.oss-cn-shanghai.aliyuncs.com/images/20240324113938.png)
+
+
+## V模型
+
+![](https://lxgme.oss-cn-shanghai.aliyuncs.com/images/20240324114141.png)
+
+
+回归测试：测出问题，提交bug平台，处理然后后重新根据测试用例测试。
+负载测试：属于性能测试的一种，测试最大最大负载量。
+压力测试：属于性能测试的一种，测试多少会崩溃。
+
+## McCabe复杂度(环路复杂度)
+
+公式：V（G）=m-n+2
+m: 边数
+n：节点数
+
+![](https://lxgme.oss-cn-shanghai.aliyuncs.com/images/20240324114857.png)
+
+节点就是里面的圆，边就是箭头。
+上图中 边的数量就是 15、节点就是12
+
+15-12+2=5
+
+环路复杂度=5
+
+还有一种公式
+公式：封闭区域数量+1
+
+![](https://lxgme.oss-cn-shanghai.aliyuncs.com/images/20240324115548.png)
+
+
+![](https://lxgme.oss-cn-shanghai.aliyuncs.com/images/20240324115803.png)
+
+# 软件维护
+
+|  可维护性因素决定  |
+|  ----  | 
+|可理解性    | 
+|可测试性    | 
+|可修改性    |
+
+
+
+|  软件维护类型  |
+|  ----  | 
+|改正性维护（BUG）   | 
+|适用性维护 (适应当前环境)   | 
+|预防性为维护   |
+|完善性维护|
+
+
+![](https://lxgme.oss-cn-shanghai.aliyuncs.com/images/20240324120542.png)
+
+
+## 文档
+
+![](https://lxgme.oss-cn-shanghai.aliyuncs.com/images/20240324120658.png)
+
+
+## 质量保证
+
+![](https://lxgme.oss-cn-shanghai.aliyuncs.com/images/20240324120818.png)
+
+
+## CMMI
+
+![](https://lxgme.oss-cn-shanghai.aliyuncs.com/images/20240324120916.png)
+
+## 项目管理
+
+
+![](https://lxgme.oss-cn-shanghai.aliyuncs.com/images/20240324121000.png)
+
+### 松弛时间
+不延误总时间的提前下 ，该活动的机动时间。
+活动的总时差等于该活动的最迟完成时间与最早完成的时间之差。或该活动最迟开始时间与最早开始时间之差。
+![](https://lxgme.oss-cn-shanghai.aliyuncs.com/images/20240324121140.png)
+
+## 项目管理
+
+
+项目风险
+
+技术风险
+
+商业风险
+
+
+![](https://lxgme.oss-cn-shanghai.aliyuncs.com/images/20240324121832.png)

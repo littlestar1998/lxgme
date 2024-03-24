@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lxgme.com/post/readme/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+    <loc>https://lxgme.com/categories/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lxgme.com/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lxgme.com/post/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lxgme.com/tags/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lxgme.com/categories/tech/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lxgme.com/tags/%E7%94%9F%E6%88%90%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lxgme.com/post/generate-test-file/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lxgme.com/post/readme/</loc>
     <lastmod>2019-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lxgme.com/about/</loc>
@@ -17,12 +32,8 @@
   </url><url>
     <loc>https://lxgme.com/search/placeholder/</loc>
   </url><url>
-    <loc>https://lxgme.com/categories/</loc>
-  </url><url>
     <loc>https://lxgme.com/archive/</loc>
   </url><url>
     <loc>https://lxgme.com/search/</loc>
-  </url><url>
-    <loc>https://lxgme.com/tags/</loc>
   </url>
 </urlset>

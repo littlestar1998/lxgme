@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Huabing Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://lxgme.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lxgme.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>生成测试文件</title>
+      <link>https://lxgme.com/post/generate-test-file/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lxgme.com/post/generate-test-file/</guid>
+      <description>生成40万个测试文件 mkdir tmp/; seq 1 400000 | xargs -I{} touch tmp/file_{}</description>
+    </item>
+    
     <item>
       <title>Clean White Theme for Hugo</title>
       <link>https://lxgme.com/post/readme/</link>
